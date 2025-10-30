@@ -197,7 +197,7 @@ p.note { display: none; }
 <h2><span class="yellow">ここが一番よく見えるポイント、右から、髪、額、目の窪み、鼻、顎、胸と続きます</span></h2>
 <a href="20251030_015.JPG" target="_blank"><img src="20251030_015.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">伝説では、胎児と共にこのまま亡くなってしまいます</span></h2>
+<h2><span class="yellow">伝説では、夫を待ち続けた女性は、胎児と共にこのまま亡くなってしまいます</span></h2>
 <a href="20251030_016.JPG" target="_blank"><img src="20251030_016.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">メーサイの街にそろそろ到着</span></h2>
